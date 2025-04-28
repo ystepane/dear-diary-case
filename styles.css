@@ -1,0 +1,62 @@
+body {
+  font-family: Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #eee2dc;
+}
+
+header {
+  background-color: #ac3b61;
+  color: white;
+  text-align: center;
+  padding: 1em 0;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+h2,
+h3 {
+  color: #ac3b61;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  background-color: #edc7b7;
+  margin: 5px 0;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+footer {
+  text-align: center;
+  padding: 10px 0;
+  background-color: #ac3b61;
+  color: white;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+
+.case-study {
+  background-color: white;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+iframe {
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
